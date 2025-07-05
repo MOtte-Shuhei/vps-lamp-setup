@@ -4,10 +4,10 @@
 ---
 ## 使用技術
 
-- Linux （Rocky Linux）
--　Apache
--　MariaDB
--　PHP
+- Linux （Rocky Linux）<br>
+-　Apache<br>
+-　MariaDB<br>
+-　PHP<br>
 -　WordPress
 
 ---
