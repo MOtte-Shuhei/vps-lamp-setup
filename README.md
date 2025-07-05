@@ -18,7 +18,7 @@
 01. さくらVPS準備・接続(SSH) 
 02. Apacheサーバー構築(インストール&起動)
 03. Apache Basic認証の設定と動作確認
-04. PHPのインストールとApacheとの連携確認
+04. PHPのインストール
 05. MariaDBのインストールと接続確認
 06. WordPressのダウンロードとインストール
 07. WordPressログイン画面の表示・管理画面へのアクセス
@@ -39,8 +39,8 @@ Apacheをインストールし、Webサーバーとして起動・有効化を�
 ディレクトリに対してBasic認証を設定し、アクセス時にユーザー名・パスワードの入力が求められることを確認しました。
 ![Apache Basic Auth Test](images/apache-basic-auth-test.png)
 
-### 04.PHPのインストールとApacheとの連携確認
-PHPをインストールし、Apache上でPHPが正しく動作することを確認しました。
+### 04.PHPのインストール
+PHPをインストールしました。
 ![PHP Apache Intergration Test](images/php-apache-integration-test.png)
 
 ### 05.MariaDBのインストールと接続確認
