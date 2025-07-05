@@ -40,14 +40,14 @@ Apacheをインストールし、Webサーバーとして起動・有効化を�
 
 ### 04.PHPのインストールとApacheとの連携確認
 PHPをインストールし、Apache上でPHPが正しく動作することを確認しました。
-![PHP Apache Intergration Test](images/php-apache-intergration-test.png)
+![PHP Apache Intergration Test](images/php-apache-integration-test.png)
 
 ### 05.MariaDBのインストールと接続確認
 MariaDBをインストール後、初期設定と接続確認を行いました。
 ![MariaDB Connection Success](images/mariadb-connection-success.png)
 
 ### 06.WordPressのダウンロードとインストール
-WordPressの最新版をダウンロードし、Apacheのドキュメントルートに展開しました。
+WordPressの最新版をダウンロードしました。
 ![WordPress Install Success](images/wordpress-install-success.png)
 
 ### 07.WordPressログイン画面の表示・管理画面へのアクセス
