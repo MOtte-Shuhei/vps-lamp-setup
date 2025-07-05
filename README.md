@@ -24,9 +24,38 @@
 
 ---
 
-## スクリーンショット
+## セットアップ手順
 
-### Apache Basic認証の動作確認
+## 01.さくらVPS準備・接続
+さくらのVPSで仮想サーバーを用意し、SSH接続を行いました。
+![Sakura VPS Setup](images/sakura-vps-setup.png)
 
-ApacheでBasic認証を設定し、アクセス時にユーザー名とパスワードの入力が求められることを確認しました。
+## 02.Apacheサーバー構築(インストール＆起動)
+Apacheをインストールし、Webサーバーとして起動・有効化を行いました。
+![Apache Server Setup](images/apache-server-setup.png)
+
+## 03.Apache Basic認証の設定と動作確認
+ディレクトリに対してBasic認証を設定し、アクセス時にユーザー名・パスワードの入力が求められることを確認しました。
 ![Apache Basic Auth Test](images/apache-basic-auth-test.png)
+
+## 04.PHPのインストールとApacheとの連携確認
+PHPをインストールし、Apache上でPHPが正しく動作することを確認しました。
+![PHP Apache Intergration Test](images/php-apache-intergration-test.png)
+
+## 05.MariaDBのインストールと接続確認
+MariaDBをインストール後、初期設定と接続確認を行いました。
+![MariaDB Connection Success](images/mariadb-connection-success.png)
+
+## 06.WordPressのダウンロードとインストール
+WordPressの最新版をダウンロードし、Apacheのドキュメントルートに展開しました。
+ブラウザでアクセスし、インストーラー画面が表示されることを確認しました。
+![WordPress Install Success](images/wordpress-install-success.png)
+
+## 07.WordPressログイン画面の表示・管理画面へのアクセス
+WordPressのインストール完了後、ログイン画面が正しく表示されること、管理画面へアクセスできることを確認しました。
+![WordPress Login Success](images/wordpress-login-success.png)
+
+
+## 私が学んだこと
+
+
