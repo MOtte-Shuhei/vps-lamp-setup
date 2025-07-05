@@ -29,4 +29,4 @@
 ### Apache Basic認証の動作確認
 
 ApacheでBasic認証を設定し、アクセス時にユーザー名とパスワードの入力が求められることを確認しました。
-![Apache Basic Auth Test] (images/apache-basic-auth-test.png)
+![Apache Basic Auth Test](images/apache-basic-auth-test.png)
