@@ -20,7 +20,7 @@
 03. Apache Basic認証の設定と動作確認
 04. PHPのインストール
 05. MariaDBのインストールと接続確認
-06. WordPressのダウンロードとインストール
+06. WordPressのインストール
 07. WordPressログイン画面の表示・管理画面へのアクセス
 
 ---
@@ -47,8 +47,8 @@ PHPをインストールしました。
 MariaDBをインストール後、初期設定と接続確認を行いました。
 ![MariaDB Connection Success](images/mariadb-connection-success.png)
 
-### 06.WordPressのダウンロードとインストール
-WordPressの最新版をダウンロードしました。
+### 06.WordPressのインストール
+WordPressの最新版をインストールしました。
 ![WordPress Install Success](images/wordpress-install-success.png)
 
 ### 07.WordPressログイン画面の表示・管理画面へのアクセス
